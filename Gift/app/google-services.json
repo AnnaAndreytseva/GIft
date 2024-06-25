@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "988460993825",
+    "firebase_url": "https://gift-b8875-default-rtdb.firebaseio.com",
+    "project_id": "gift-b8875",
+    "storage_bucket": "gift-b8875.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988460993825:android:ab3ec78efdcd37c9348260",
+        "android_client_info": {
+          "package_name": "com.example.choosinggift"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjoBlY3GCjeLge_6TIw9b4VAh3ASUl1PA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988460993825:android:1557ec6a5be7da7d348260",
+        "android_client_info": {
+          "package_name": "com.example.gift"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjoBlY3GCjeLge_6TIw9b4VAh3ASUl1PA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
